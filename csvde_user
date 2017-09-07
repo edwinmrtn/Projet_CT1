@@ -15,3 +15,6 @@ DN,objectClass,SamAccountName,
 "cn=MARMANDE José,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,j.marmande
 "cn=MOUZON Stéphane,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,s.mouzon
 
+"CN=GG_CYBERDEFENCE,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_CYBERDEFENCE
+"CN=GG_Commandement,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Commandement
+"CN=GG_Secretariat,OU=Secretariat,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Secretariat
