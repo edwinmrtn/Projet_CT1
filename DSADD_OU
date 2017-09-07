@@ -1,14 +1,14 @@
-DSADD OU "OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Secretariat,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Chefs,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Secretariat,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
-DSADD OU "OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Chefs,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Prog,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
-DSADD OU "OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Chefs,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Pilotage,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Projection,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
 pause
