@@ -1,16 +1,17 @@
 DN,objectClass,SamAccountName,
 
-"cn=OUVEZE Nathalie,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec1
-"cn=AURE Peter,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec2
-"cn=BREZOU Jean-paul,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo1
+"cn=OUVEZE Nathalie,OU=Chefs,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,n.ouveze
+"cn=AURE Peter,OU=Chefs,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,p.aure
+"cn=BREZOU Jean-paul,OU=Secretariat,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,jp.brezou
 
-"cn=CHERE Aline,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo2
-"cn=DROPT Christian,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo3
-"cn=ESSONNE Alphonse,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso1
-"cn=GUIL Sebastien,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso2
+"cn=CHERE Aline,OU=Chefs,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,a.chere
+"cn=DROPT Christian,OU=Chefs,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,c.dropt
+"cn=ESSONNE Alphonse,OU=Prog,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,a.essonne
+"cn=GUIL Sebastien,OU=Prog,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,s.guil
 
-"cn=LIDOIRE Paul-Henri,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp1
-"cn=ELEMOE Ari,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp2
-"cn=SEINE Jacques,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec1
-"cn=MARMANDE José,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec2
-"cn=MOUZON Stéphane,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec2
+"cn=LIDOIRE Paul-Henri,OU=Chefs,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,ph.lidoire
+"cn=ELEMOE Ari,OU=Chefs,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,a.elemoe
+"cn=SEINE Jacques,OU=Pilotage,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,j.seine
+"cn=MARMANDE José,OU=Pilotage,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,j.marmande
+"cn=MOUZON Stéphane,OU=Projection,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,s.mouzon
+
