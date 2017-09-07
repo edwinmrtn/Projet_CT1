@@ -1,0 +1,16 @@
+DN,objectClass,SamAccountName,
+
+"cn=OUVEZE Nathalie,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec1
+"cn=AURE Peter,ou=secretariat,ou=management,dc=dommtn,dc=bricoflex,dc=fr",user,sec2
+"cn=BREZOU Jean-paul,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo1
+
+"cn=CHERE Aline,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo2
+"cn=DROPT Christian,ou=placoplatre,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,placo3
+"cn=ESSONNE Alphonse,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso1
+"cn=GUIL Sebastien,ou=isolation,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,iso2
+
+"cn=LIDOIRE Paul-Henri,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp1
+"cn=ELEMOE Ari,ou=charpente,ou=gros oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,charp2
+"cn=SEINE Jacques,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec1
+"cn=MARMANDE José,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec2
+"cn=MOUZON Stéphane,ou=electricite,ou=second oeuvre,dc=dommtn,dc=bricoflex,dc=fr",user,elec2
