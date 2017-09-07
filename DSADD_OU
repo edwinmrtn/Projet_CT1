@@ -1,13 +1,13 @@
 DSADD OU "OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 DSADD OU "OU=Secretariat,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Direction,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=Commandement,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
 DSADD OU "OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Direction,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 DSADD OU "OU=Prog,OU=LID,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
 DSADD OU "OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-DSADD OU "OU=Direction,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+DSADD OU "OU=Chefs,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 DSADD OU "OU=Pilotage,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 DSADD OU "OU=Projection,OU=Securite,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
 
