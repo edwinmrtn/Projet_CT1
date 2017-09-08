@@ -1,3 +1,4 @@
+DN,objectClass,SamAccountName,
 "CN=GG_CYBERDEFENCE,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_CYBERDEFENCE
 
 "CN=GG_Commandement,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Commandement
