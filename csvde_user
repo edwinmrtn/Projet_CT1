@@ -16,5 +16,16 @@ DN,objectClass,SamAccountName,
 "cn=MOUZON Stéphane,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",user,s.mouzon
 
 "CN=GG_CYBERDEFENCE,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_CYBERDEFENCE
+
 "CN=GG_Commandement,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Commandement
 "CN=GG_Secretariat,OU=Secretariat,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Secretariat
+"CN=GG_Chefs_cmdt,OU=Chefs_cmdt,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs
+
+"CN=GG_LID,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_LID
+"CN=GG_Chefs_LID,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs_LID
+"CN=GG_Prog,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Prog
+
+"CN=GG_Securite,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Securite
+"CN=GG_Chefs_securite,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs_securite
+"CN=GG_Pilotage,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Pilotage
+"CN=GG_Projection,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Projection
