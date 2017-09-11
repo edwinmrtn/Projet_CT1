@@ -1,17 +1,38 @@
-DN,objectClass,SamAccountName,member
+DN,objectClass,SamAccountName
 
-"CN=GG_Secretariat,OU=Secretariat,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Secretariat,"cn=BREZOU Jean-paul,OU=Secretariat,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_Chefs_cmdt,OU=Chefs_cmdt,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs,"cn=OUVEZE Nathalie,OU=Chefs,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;"cn=AURE Peter,OU=Chefs,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr""
-"CN=GG_Commandement,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Commandement,"CN=GG_Secretariat,OU=Secretariat,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_Chefs_cmdt,OU=Chefs_cmdt,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+"CN=DL_commun_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_R
+"CN=DL_commun_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_RW
+
+"CN=DL_commun_CDT_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_CDT_R
+"CN=DL_commun_CDT_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_CDT_RW
+
+"CN=DL_commun_LID_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_LID_R
+"CN=DL_commun_LID_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_LID_RW
+
+"CN=DL_commun_securite_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_securite_R
+"CN=DL_commun_securite_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_securite_RW
+
+"CN=DL_bureau_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_R
+"CN=DL_bureau_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_RW
+
+"CN=DL_bureau_CDT_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_R
+"CN=DL_bureau_CDT_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_RW
 
 
-"CN=GG_Chefs_LID,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs_LID,"cn=CHERE Aline,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;cn=DROPT Christian,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_Prog,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Prog,"cn=ESSONNE Alphonse,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;cn=GUIL Sebastien,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_LID,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_LID,"CN=GG_Prog,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_Prog,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+"CN=DL_bureau_CDT_chef_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_R
+"CN=DL_bureau_CDT_chef_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_RW
 
-"CN=GG_Chefs_securite,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Chefs_securite,"cn=LIDOIRE Paul-Henri,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;cn=ELEMOE Ari,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_Pilotage,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Pilotage,"cn=SEINE Jacques,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;cn=MARMANDE José,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_Projection,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Projection,"cn=MOUZON Stéphane,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
-"CN=GG_Securite,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_Securite,"CN=GG_Chefs_securite,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_Pilotage,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_Projection,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+"CN=DL_bureau_CDT_adjoint_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_R
+"CN=DL_bureau_CDT_adjoint_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_RW
 
-"CN=GG_CYBERDEFENCE,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,GG_CYBERDEFENCE,"CN=GG_Securite,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_LID,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr;CN=GG_Commandement,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr"
+"CN=DL_bureau_CDT_secretariat_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_R
+"CN=DL_bureau_CDT_secretariat_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_RW
+
+"CN=DL_bureau_LID_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_LID_R
+"CN=DL_bureau_LID_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_LID_RW
+
+"CN=DL_bureau_securite_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_securite_R
+"CN=DL_bureau_securite_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_securite_RW
+
+"CN=DL_prive_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_prive_R
+"CN=DL_prive_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_prive_RW
