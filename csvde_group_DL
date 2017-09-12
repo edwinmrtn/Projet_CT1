@@ -1,38 +1,38 @@
 DN,objectClass,SamAccountName
 
-"CN=DL_commun_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_R
-"CN=DL_commun_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_RW
+"CN=DL_commun_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_R
+"CN=DL_commun_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_RW
 
-"CN=DL_commun_CDT_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_CDT_R
-"CN=DL_commun_CDT_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_CDT_RW
+"CN=DL_commun_CDT_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_CDT_R
+"CN=DL_commun_CDT_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_CDT_RW
 
-"CN=DL_commun_LID_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_LID_R
-"CN=DL_commun_LID_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_LID_RW
+"CN=DL_commun_LID_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_LID_R
+"CN=DL_commun_LID_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_LID_RW
 
-"CN=DL_commun_securite_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_securite_R
-"CN=DL_commun_securite_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_commun_securite_RW
+"CN=DL_commun_securite_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_securite_R
+"CN=DL_commun_securite_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_commun_securite_RW
 
-"CN=DL_bureau_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_R
-"CN=DL_bureau_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_RW
+"CN=DL_bureau_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_R
+"CN=DL_bureau_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_RW
 
-"CN=DL_bureau_CDT_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_R
-"CN=DL_bureau_CDT_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_RW
+"CN=DL_bureau_CDT_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_R
+"CN=DL_bureau_CDT_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_RW
 
 
-"CN=DL_bureau_CDT_chef_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_R
-"CN=DL_bureau_CDT_chef_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_RW
+"CN=DL_bureau_CDT_chef_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_R
+"CN=DL_bureau_CDT_chef_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_chef_RW
 
-"CN=DL_bureau_CDT_adjoint_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_R
-"CN=DL_bureau_CDT_adjoint_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_RW
+"CN=DL_bureau_CDT_adjoint_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_R
+"CN=DL_bureau_CDT_adjoint_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_adjoint_RW
 
-"CN=DL_bureau_CDT_secretariat_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_R
-"CN=DL_bureau_CDT_secretariat_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_RW
+"CN=DL_bureau_CDT_secretariat_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_R
+"CN=DL_bureau_CDT_secretariat_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_CDT_secretariat_RW
 
-"CN=DL_bureau_LID_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_LID_R
-"CN=DL_bureau_LID_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_LID_RW
+"CN=DL_bureau_LID_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_LID_R
+"CN=DL_bureau_LID_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_LID_RW
 
-"CN=DL_bureau_securite_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_securite_R
-"CN=DL_bureau_securite_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_bureau_securite_RW
+"CN=DL_bureau_securite_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_securite_R
+"CN=DL_bureau_securite_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_bureau_securite_RW
 
-"CN=DL_prive_R,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_prive_R
-"CN=DL_prive_RW,OU=DL,DC=bri3,DC=div-defense,DC=defense,DC=gouv,DC=fr",group,DL_prive_RW
+"CN=DL_prive_R,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_prive_R
+"CN=DL_prive_RW,OU=DL,DC=bri3,DC=intradef,DC=gouv,DC=fr",group,DL_prive_RW
