@@ -1,18 +1,18 @@
 DN,objectClass,SamAccountName,
 
-"cn=OUVEZE Nathalie,OU=Chefs,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,n.ouveze
-"cn=AURE Peter,OU=Chefs,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,p.aure
-"cn=BREZOU Jean-paul,OU=Secretariat,OU=Commandement,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,jp.brezou
+"cn=OUVEZE Nathalie,OU=Chefs,OU=Commandement,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,n.ouveze
+"cn=AURE Peter,OU=Chefs,OU=Commandement,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,p.aure
+"cn=BREZOU Jean-paul,OU=Secretariat,OU=Commandement,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,jp.brezou
 
-"cn=CHERE Aline,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.chere
-"cn=DROPT Christian,OU=Chefs,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,c.dropt
-"cn=ESSONNE Alphonse,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.essonne
-"cn=GUIL Sebastien,OU=Prog,OU=LID,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,s.guil
+"cn=CHERE Aline,OU=Chefs,OU=LID,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.chere
+"cn=DROPT Christian,OU=Chefs,OU=LID,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,c.dropt
+"cn=ESSONNE Alphonse,OU=Prog,OU=LID,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.essonne
+"cn=GUIL Sebastien,OU=Prog,OU=LID,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,s.guil
 
-"cn=LIDOIRE Paul-Henri,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,ph.lidoire
-"cn=ELEMOE Ari,OU=Chefs,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.elemoe
-"cn=SEINE Jacques,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,j.seine
-"cn=MARMANDE José,OU=Pilotage,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,j.marmande
-"cn=MOUZON Stéphane,OU=Projection,OU=Securite,OU=CYBERDEFENCE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,s.mouzon
+"cn=LIDOIRE Paul-Henri,OU=Chefs,OU=Securite,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,ph.lidoire
+"cn=ELEMOE Ari,OU=Chefs,OU=Securite,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,a.elemoe
+"cn=SEINE Jacques,OU=Pilotage,OU=Securite,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,j.seine
+"cn=MARMANDE José,OU=Pilotage,OU=Securite,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,j.marmande
+"cn=MOUZON Stéphane,OU=Projection,OU=Securite,OU=CYBERDEFENSE,DC=bri3,DC=intradef,DC=gouv,DC=fr",user,s.mouzon
 
 
